@@ -18,7 +18,7 @@ Executed with CUDA 11.7 on a NVIDIA GeForce RTX 3060 12GB.
 
 ## Installation
 
-1. pip install .
+1. Run `setup.bat`
 
 ## Usage
 
